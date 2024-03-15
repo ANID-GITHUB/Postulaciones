@@ -1,6 +1,6 @@
 # Postulaciones
 
-En este repositorio se presenta la base de datos [POSTULACIONES_2016_2020.csv](https://github.com/ANID-GITHUB/Postulaciones/blob/657902a913a2446b7e0fb0e71217c773a46ff93e/POSTULACIONES_2016_2020.csv) que contiene la información estadística de proyectos postulados a diferentes instrumentos de la Agencia, en concursos adjudicados entre el 2016 y el 2020. 
+En este repositorio se presenta la base de datos [POSTULACIONES_2016_2020.csv](https://github.com/ANID-GITHUB/Postulaciones/blob/657902a913a2446b7e0fb0e71217c773a46ff93e/POSTULACIONES_2016_2020.csv) que contiene la información estadística de proyectos postulados a diferentes instrumentos de la Agencia, en concursos adjudicados entre el 2016 y el 2023. 
 
 Esta base de datos de postulaciones es una consolidación de resultados de concursos, cuyas postulaciones ingresan o no a través del Sistema de Postulación en Línea (SPL) de la Agencia. En aquellos casos en que las postulaciones no ingresan por SPL, se levanta el registro administrativo al menos para las postulaciones adjudicadas, por lo cual en algunas convocatorias sólo se encuentra el detalle de postulaciones adjudicadas y no el de todas las postulaciones recibidas.
 
