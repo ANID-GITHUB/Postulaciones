@@ -1,6 +1,6 @@
 # Postulaciones
 
-En este repositorio se presenta la base de datos de postulaciones entre 2016 y 2023 que contiene la información estadística de proyectos postulados a diferentes instrumentos de la Agencia, en concursos adjudicados. 
+En este repositorio se presenta la base de datos de postulaciones entre 2016 a la fecha que contiene la información estadística de proyectos postulados a diferentes instrumentos de la Agencia, en concursos adjudicados. 
 
 Esta base de datos de postulaciones es una consolidación de resultados de concursos, cuyas postulaciones ingresan o no a través del Sistema de Postulación en Línea (SPL) de la Agencia. En aquellos casos en que las postulaciones no ingresan por SPL, se levanta el registro administrativo al menos para las postulaciones adjudicadas, por lo cual en algunas convocatorias sólo se encuentra el detalle de postulaciones adjudicadas y no el de todas las postulaciones recibidas.
 
